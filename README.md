@@ -1,6 +1,6 @@
 # Raph Manager
 
-This is a Nextcord-based bot addon for Jailbreak Vision, primarily designed to generate graphs based on the results of dyno speed tests.
+This is a Nextcord-based bot addon for [Jailbreak Vision](https://github.com/Poco-Coco/Jailbreak-Vison-v3), primarily designed to generate graphs based on the results of dyno speed tests.
 
 > ⚠️ **Caution:** This bot has not been actively maintained for a significant period of time and may be out of date. Users may need to make modifications to ensure proper functionality. Please proceed with caution and be prepared to update code as necessary.
 
